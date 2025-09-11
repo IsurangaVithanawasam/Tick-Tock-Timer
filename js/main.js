@@ -4,7 +4,7 @@ const minsElm = document.getElementById('mins');
 const secondsElm = document.getElementById('seconds');
 
 
-const newYears = "1 Jan 2025";
+const newYears = "1 Jan 2026";
 
 function ticking() {
     const newYearDate = new Date(newYears);
